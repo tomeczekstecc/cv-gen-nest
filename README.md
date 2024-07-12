@@ -1,3 +1,52 @@
+
+## USE CASES
+
+ - [ ] General 1
+   - [ ] user may register
+   - [ ] user may login / github / Google / Magic Link
+   - [ ] user may reset password (forgot)
+- [ ] Application 2
+   - [ ] user may create one app (becomes admin)
+   - [ ] admin may edit app
+   - [ ] admin may delete app
+   - [ ] admin may subscribe
+   - [ ] admin may unubscribe
+   - [ ] admin may add/block/delete another user - editor or viewer 
+   - [ ] editor may edit resumes 
+   - [ ] viewer may read resumes
+- [ ] Resume 3
+   - [ ] user may add basic info    
+   - [ ] user may add educations    
+   - [ ] user may add skills    
+   - [ ] user may add stack    
+   - [ ] user may add experience    
+- [ ] Profile 4
+   - [ ] user may see profile page
+   - [ ] user may edit profile
+   - [ ] user may delete profile (cascade resume)
+   - [ ] user may change password
+
+## RBAC
+
+## DEV OPS - jenkins
+
+## RABBIT MQ
+
+## PRINTER
+
+## LOGGER && MONGO
+
+## MINIO Files
+
+## UNIT AND INTERGRATION TESTS
+
+## E2E TESTS
+
+## OWN RECOURSES
+### eraser
+https://app.eraser.io/workspace/YHxcG9w6i9E1kmcSq9MG
+
+
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
 </p>
